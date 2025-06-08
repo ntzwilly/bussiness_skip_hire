@@ -6,7 +6,7 @@ A React Web page for selecting skip sizes, built with [Vite](https://vitejs.dev/
 
 You can view and test the live version of this application here:
 
-**[https://tl9scx-5173.csb.app/]**  
+**https://tl9scx-5173.csb.app/**  
 
 ## My Approach and Key Decisions
 
