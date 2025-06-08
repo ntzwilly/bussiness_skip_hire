@@ -71,7 +71,7 @@ In developing this application, I focused on creating a robust, user-friendly, a
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/your-username/skip-app.git
+git clone git@github.com:ntzwilly/bussiness_skip_hire.git
 cd skip-app
 npm install
 ```
