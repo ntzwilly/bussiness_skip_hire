@@ -14,7 +14,7 @@ In developing this application, I focused on creating a robust, user-friendly, a
 
 ### Core Technologies
 
-- **React:** Used as the project requirement, providing a component-based architecture for a modular and scalable UI. architecture, enabling a modular and scalable UI.
+- **React:** Used as the project requirement, providing a component-based architecture for a modular and scalable UI.
 - **Vite:** Utilized for a superior development experience with rapid cold starts, instant Hot Module Replacement (HMR), and optimized production builds.
 - **Plain CSS:** Employed for styling, leveraging CSS variables for consistent theming and easy adjustments.
 
